@@ -1,5 +1,4 @@
 import {createClient} from '@supabase/supabase-js'
-import 'dotenv/config'
 import * as data from './info.json' assert {type: "json"} 
 
 const supabase = createClient(process.env.DB_url, process.env.DB_anon);

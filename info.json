@@ -1,0 +1,807 @@
+
+[
+    {
+        "country": "AD",
+        "playlist_id": null
+    },
+    {
+        "country": "AE",
+        "name": "United Arab Emirates",
+        "playlist_id": "37i9dQZEVXbM4UZuIrvHvA"
+    },
+    {
+        "country": "AG",
+        "playlist_id": null
+    },
+    {
+        "country": "AL",
+        "playlist_id": null
+    },
+    {
+        "country": "AM",
+        "playlist_id": null
+    },
+    {
+        "country": "AO",
+        "playlist_id": null
+    },
+    {
+        "country": "AR",
+        "name": "Argentina",
+        "playlist_id": "37i9dQZEVXbMMy2roB9myp"
+    },
+    {
+        "country": "AT",
+        "name": "Austria",
+        "playlist_id": "37i9dQZEVXbKNHh6NIXu36"
+    },
+    {
+        "country": "AU",
+        "name": "Australia",
+        "playlist_id": "37i9dQZEVXbJPcfkRz0wJ0"
+    },
+    {
+        "country": "AZ",
+        "playlist_id": null
+    },
+    {
+        "country": "BA",
+        "playlist_id": null
+    },
+    {
+        "country": "BB",
+        "playlist_id": null
+    },
+    {
+        "country": "BD",
+        "playlist_id": null
+    },
+    {
+        "country": "BE",
+        "name": "Belgium",
+        "playlist_id": "37i9dQZEVXbJNSeeHswcKB"
+    },
+    {
+        "country": "BF",
+        "playlist_id": null
+    },
+    {
+        "country": "BG",
+        "name": "Bulgaria",
+        "playlist_id": "37i9dQZEVXbNfM2w2mq1B8"
+    },
+    {
+        "country": "BH",
+        "playlist_id": null
+    },
+    {
+        "country": "BI",
+        "playlist_id": null
+    },
+    {
+        "country": "BJ",
+        "playlist_id": null
+    },
+    {
+        "country": "BN",
+        "playlist_id": null
+    },
+    {
+        "country": "BO",
+        "name": "Bolivia",
+        "playlist_id": "37i9dQZEVXbJqfMFK4d691"
+    },
+    {
+        "country": "BR",
+        "name": "Brazil",
+        "playlist_id": "37i9dQZEVXbMXbN3EUUhlg"
+    },
+    {
+        "country": "BS",
+        "playlist_id": null
+    },
+    {
+        "country": "BT",
+        "playlist_id": null
+    },
+    {
+        "country": "BW",
+        "playlist_id": null
+    },
+    {
+        "country": "BY",
+        "name": "Belarus",
+        "playlist_id": "37i9dQZEVXbIYfjSLbWr4V"
+    },
+    {
+        "country": "BZ",
+        "playlist_id": null
+    },
+    {
+        "country": "CA",
+        "name": "Canada",
+        "playlist_id": "37i9dQZEVXbKj23U1GF4IR"
+    },
+    {
+        "country": "CD",
+        "playlist_id": null
+    },
+    {
+        "country": "CG",
+        "playlist_id": null
+    },
+    {
+        "country": "CH",
+        "name": "Switzerland",
+        "playlist_id": "37i9dQZEVXbJiyhoAPEfMK"
+    },
+    {
+        "country": "CI",
+        "playlist_id": null
+    },
+    {
+        "country": "CL",
+        "name": "Chile",
+        "playlist_id": "37i9dQZEVXbL0GavIqMTeb"
+    },
+    {
+        "country": "CM",
+        "playlist_id": null
+    },
+    {
+        "country": "CO",
+        "name": "Colombia",
+        "playlist_id": "37i9dQZEVXbOa2lmxNORXQ"
+    },
+    {
+        "country": "CR",
+        "name": "Costa Rica",
+        "playlist_id": "37i9dQZEVXbMZAjGMynsQX"
+    },
+    {
+        "country": "CV",
+        "playlist_id": null
+    },
+    {
+        "country": "CW",
+        "playlist_id": null
+    },
+    {
+        "country": "CY",
+        "playlist_id": null
+    },
+    {
+        "country": "CZ",
+        "name": "Czech Republic",
+        "playlist_id": "37i9dQZEVXbIP3c3fqVrJY"
+    },
+    {
+        "country": "DE",
+        "name": "Germany",
+        "playlist_id": "37i9dQZEVXbJiZcmkrIHGU"
+    },
+    {
+        "country": "DJ",
+        "playlist_id": null
+    },
+    {
+        "country": "DK",
+        "name": "Denmark",
+        "playlist_id": "37i9dQZEVXbL3J0k32lWnN"
+    },
+    {
+        "country": "DM",
+        "playlist_id": null
+    },
+    {
+        "country": "DO",
+        "name": "Dominican Republic",
+        "playlist_id": "37i9dQZEVXbKAbrMR8uuf7"
+    },
+    {
+        "country": "DZ",
+        "playlist_id": null
+    },
+    {
+        "country": "EC",
+        "name": "Ecuador",
+        "playlist_id": "37i9dQZEVXbJlM6nvL1nD1"
+    },
+    {
+        "country": "EE",
+        "playlist_id": null
+    },
+    {
+        "country": "EG",
+        "name": "Egypt",
+        "playlist_id": "37i9dQZEVXbLn7RQmT5Xv2"
+    },
+    {
+        "country": "ES",
+        "name": "Spain",
+        "playlist_id": "37i9dQZEVXbNFJfN1Vw8d9"
+    },
+    {
+        "country": "ET",
+        "playlist_id": null
+    },
+    {
+        "country": "FI",
+        "name": "Finland",
+        "playlist_id": "37i9dQZEVXbMxcczTSoGwZ"
+    },
+    {
+        "country": "FJ",
+        "playlist_id": null
+    },
+    {
+        "country": "FM",
+        "playlist_id": null
+    },
+    {
+        "country": "FR",
+        "name": "France",
+        "playlist_id": "37i9dQZEVXbIPWwFssbupI"
+    },
+    {
+        "country": "GA",
+        "playlist_id": null
+    },
+    {
+        "country": "GB",
+        "name": "United Kingdom",
+        "playlist_id": "37i9dQZEVXbLnolsZ8PSNw"
+    },
+    {
+        "country": "GD",
+        "playlist_id": null
+    },
+    {
+        "country": "GE",
+        "playlist_id": null
+    },
+    {
+        "country": "GH",
+        "playlist_id": null
+    },
+    {
+        "country": "GM",
+        "playlist_id": null
+    },
+    {
+        "country": "GN",
+        "playlist_id": null
+    },
+    {
+        "country": "GQ",
+        "playlist_id": null
+    },
+    {
+        "country": "GR",
+        "name": "Greece",
+        "playlist_id": "37i9dQZEVXbJqdarpmTJDL"
+    },
+    {
+        "country": "GT",
+        "name": "Guatemala",
+        "playlist_id": "37i9dQZEVXbLy5tBFyQvd4"
+    },
+    {
+        "country": "GW",
+        "playlist_id": null
+    },
+    {
+        "country": "GY",
+        "playlist_id": null
+    },
+    {
+        "country": "HK",
+        "name": "Hong Kong",
+        "playlist_id": "37i9dQZEVXbLwpL8TjsxOG"
+    },
+    {
+        "country": "HN",
+        "name": "Honduras",
+        "playlist_id": "37i9dQZEVXbJp9wcIM9Eo5"
+    },
+    {
+        "country": "HR",
+        "playlist_id": null
+    },
+    {
+        "country": "HT",
+        "playlist_id": null
+    },
+    {
+        "country": "HU",
+        "name": "Hungary",
+        "playlist_id": "37i9dQZEVXbNHwMxAkvmF8"
+    },
+    {
+        "country": "ID",
+        "name": "Indonesia",
+        "playlist_id": "37i9dQZEVXbObFQZ3JLcXt"
+    },
+    {
+        "country": "IE",
+        "name": "Ireland",
+        "playlist_id": "37i9dQZEVXbKM896FDX8L1"
+    },
+    {
+        "country": "IL",
+        "name": "Israel",
+        "playlist_id": "37i9dQZEVXbJ6IpvItkve3"
+    },
+    {
+        "country": "IN",
+        "name": "India",
+        "playlist_id": "37i9dQZEVXbLZ52XmnySJg"
+    },
+    {
+        "country": "IQ",
+        "playlist_id": null
+    },
+    {
+        "country": "IS",
+        "name": "Iceland",
+        "playlist_id": "37i9dQZEVXbKMzVsSGQ49S"
+    },
+    {
+        "country": "IT",
+        "name": "Italy",
+        "playlist_id": "37i9dQZEVXbIQnj7RRhdSX"
+    },
+    {
+        "country": "JM",
+        "playlist_id": null
+    },
+    {
+        "country": "JO",
+        "playlist_id": null
+    },
+    {
+        "country": "JP",
+        "name": "Japan",
+        "playlist_id": "37i9dQZEVXbKXQ4mDTEBXq"
+    },
+    {
+        "country": "KE",
+        "playlist_id": null
+    },
+    {
+        "country": "KG",
+        "playlist_id": null
+    },
+    {
+        "country": "KH",
+        "playlist_id": null
+    },
+    {
+        "country": "KI",
+        "playlist_id": null
+    },
+    {
+        "country": "KM",
+        "playlist_id": null
+    },
+    {
+        "country": "KN",
+        "playlist_id": null
+    },
+    {
+        "country": "KR",
+        "name": "South Korea",
+        "playlist_id": "37i9dQZEVXbNxXF4SkHj9F"
+    },
+    {
+        "country": "KW",
+        "playlist_id": null
+    },
+    {
+        "country": "KZ",
+        "playlist_id": null
+    },
+    {
+        "country": "LA",
+        "playlist_id": null
+    },
+    {
+        "country": "LB",
+        "playlist_id": null
+    },
+    {
+        "country": "LC",
+        "playlist_id": null
+    },
+    {
+        "country": "LI",
+        "playlist_id": null
+    },
+    {
+        "country": "LK",
+        "playlist_id": null
+    },
+    {
+        "country": "LR",
+        "playlist_id": null
+    },
+    {
+        "country": "LS",
+        "playlist_id": null
+    },
+    {
+        "country": "LT",
+        "name": "Lithuania",
+        "playlist_id": "37i9dQZEVXbMx56Rdq5lwc"
+    },
+    {
+        "country": "LU",
+        "name": "Luxembourg",
+        "playlist_id": "37i9dQZEVXbKGcyg6TFGx6"
+    },
+    {
+        "country": "LV",
+        "name": "Latvia",
+        "playlist_id": "37i9dQZEVXbJWuzDrTxbKS"
+    },
+    {
+        "country": "LY",
+        "playlist_id": null
+    },
+    {
+        "country": "MA",
+        "name": "Morocco",
+        "playlist_id": "37i9dQZEVXbJU9eQpX8gPT"
+    },
+    {
+        "country": "MC",
+        "playlist_id": null
+    },
+    {
+        "country": "MD",
+        "playlist_id": null
+    },
+    {
+        "country": "ME",
+        "playlist_id": null
+    },
+    {
+        "country": "MG",
+        "playlist_id": null
+    },
+    {
+        "country": "MH",
+        "playlist_id": null
+    },
+    {
+        "country": "MK",
+        "playlist_id": null
+    },
+    {
+        "country": "ML",
+        "playlist_id": null
+    },
+    {
+        "country": "MN",
+        "playlist_id": null
+    },
+    {
+        "country": "MO",
+        "playlist_id": null
+    },
+    {
+        "country": "MR",
+        "playlist_id": null
+    },
+    {
+        "country": "MT",
+        "playlist_id": null
+    },
+    {
+        "country": "MU",
+        "playlist_id": null
+    },
+    {
+        "country": "MV",
+        "playlist_id": null
+    },
+    {
+        "country": "MW",
+        "playlist_id": null
+    },
+    {
+        "country": "MX",
+        "name": "Mexico",
+        "playlist_id": "37i9dQZEVXbO3qyFxbkOE1"
+    },
+    {
+        "country": "MY",
+        "name": "Malaysia",
+        "playlist_id": "37i9dQZEVXbJlfUljuZExa"
+    },
+    {
+        "country": "MZ",
+        "playlist_id": null
+    },
+    {
+        "country": "NA",
+        "playlist_id": null
+    },
+    {
+        "country": "NE",
+        "playlist_id": null
+    },
+    {
+        "country": "NG",
+        "name": "Nigeria",
+        "playlist_id": "37i9dQZEVXbKY7jLzlJ11V"
+    },
+    {
+        "country": "NI",
+        "name": "Nicaragua",
+        "playlist_id": "37i9dQZEVXbISk8kxnzfCq"
+    },
+    {
+        "country": "NL",
+        "name": "Netherlands",
+        "playlist_id": "37i9dQZEVXbKCF6dqVpDkS"
+    },
+    {
+        "country": "NO",
+        "name": "Norway",
+        "playlist_id": "37i9dQZEVXbJvfa0Yxg7E7"
+    },
+    {
+        "country": "NP",
+        "playlist_id": null
+    },
+    {
+        "country": "NR",
+        "playlist_id": null
+    },
+    {
+        "country": "NZ",
+        "name": "New Zealand",
+        "playlist_id": "37i9dQZEVXbM8SIrkERIYl"
+    },
+    {
+        "country": "OM",
+        "playlist_id": null
+    },
+    {
+        "country": "PA",
+        "name": "Panama",
+        "playlist_id": "37i9dQZEVXbKypXHVwk1f0"
+    },
+    {
+        "country": "PE",
+        "name": "Peru",
+        "playlist_id": "37i9dQZEVXbJfdy5b0KP7W"
+    },
+    {
+        "country": "PG",
+        "playlist_id": null
+    },
+    {
+        "country": "PH",
+        "name": "Philippines",
+        "playlist_id": "37i9dQZEVXbNBz9cRCSFkY"
+    },
+    {
+        "country": "PK",
+        "name": "Pakistan",
+        "playlist_id": "37i9dQZEVXbJkgIdfsJyTw"
+    },
+    {
+        "country": "PL",
+        "name": "Poland",
+        "playlist_id": "37i9dQZEVXbN6itCcaL3Tt"
+    },
+    {
+        "country": "PS",
+        "playlist_id": null
+    },
+    {
+        "country": "PT",
+        "name": "Portugal",
+        "playlist_id": "37i9dQZEVXbKyJS56d1pgi"
+    },
+    {
+        "country": "PW",
+        "playlist_id": null
+    },
+    {
+        "country": "PY",
+        "name": "Paraguay",
+        "playlist_id": "37i9dQZEVXbNOUPGj7tW6T"
+    },
+    {
+        "country": "QA",
+        "playlist_id": null
+    },
+    {
+        "country": "RO",
+        "name": "Romania",
+        "playlist_id": "37i9dQZEVXbNZbJ6TZelCq"
+    },
+    {
+        "country": "RS",
+        "playlist_id": null
+    },
+    {
+        "country": "RW",
+        "playlist_id": null
+    },
+    {
+        "country": "SA",
+        "playlist_id": null
+    },
+    {
+        "country": "SB",
+        "playlist_id": null
+    },
+    {
+        "country": "SC",
+        "playlist_id": null
+    },
+    {
+        "country": "SE",
+        "name": "Sweden",
+        "playlist_id": "37i9dQZEVXbLoATJ81JYXz"
+    },
+    {
+        "country": "SG",
+        "name": "Singapore",
+        "playlist_id": "37i9dQZEVXbK4gjvS1FjPY"
+    },
+    {
+        "country": "SI",
+        "playlist_id": null
+    },
+    {
+        "country": "SK",
+        "playlist_id": null
+    },
+    {
+        "country": "SL",
+        "playlist_id": null
+    },
+    {
+        "country": "SM",
+        "playlist_id": null
+    },
+    {
+        "country": "SN",
+        "playlist_id": null
+    },
+    {
+        "country": "SR",
+        "playlist_id": null
+    },
+    {
+        "country": "ST",
+        "playlist_id": null
+    },
+    {
+        "country": "SV",
+        "name": "El Salvador",
+        "playlist_id": "37i9dQZEVXbLxoIml4MYkT"
+    },
+    {
+        "country": "SZ",
+        "playlist_id": null
+    },
+    {
+        "country": "TD",
+        "playlist_id": null
+    },
+    {
+        "country": "TG",
+        "playlist_id": null
+    },
+    {
+        "country": "TH",
+        "name": "Thailand",
+        "playlist_id": "37i9dQZEVXbMnz8KIWsvf9"
+    },
+    {
+        "country": "TJ",
+        "playlist_id": null
+    },
+    {
+        "country": "TL",
+        "playlist_id": null
+    },
+    {
+        "country": "TN",
+        "playlist_id": null
+    },
+    {
+        "country": "TO",
+        "playlist_id": null
+    },
+    {
+        "country": "TR",
+        "name": "Turkey",
+        "playlist_id": "37i9dQZEVXbIVYVBNw9D5K"
+    },
+    {
+        "country": "TT",
+        "playlist_id": null
+    },
+    {
+        "country": "TV",
+        "playlist_id": null
+    },
+    {
+        "country": "TW",
+        "name": "Taiwan",
+        "playlist_id": "37i9dQZEVXbMnZEatlMSiu"
+    },
+    {
+        "country": "TZ",
+        "playlist_id": null
+    },
+    {
+        "country": "UA",
+        "name": "Ukraine",
+        "playlist_id": "37i9dQZEVXbKkidEfWYRuD"
+    },
+    {
+        "country": "UG",
+        "playlist_id": null
+    },
+    {
+        "country": "US",
+        "name": "United States",
+        "playlist_id": "37i9dQZEVXbLRQDuF5jeBp"
+    },
+    {
+        "country": "UY",
+        "name": "Uruguay",
+        "playlist_id": "37i9dQZEVXbMJJi3wgRbAy"
+    },
+    {
+        "country": "UZ",
+        "playlist_id": null
+    },
+    {
+        "country": "VC",
+        "playlist_id": null
+    },
+    {
+        "country": "VE",
+        "name": "Venezuela",
+        "playlist_id": "37i9dQZEVXbNLrliB10ZnX"
+    },
+    {
+        "country": "VN",
+        "name": "Vietnam",
+        "playlist_id": "37i9dQZEVXbLdGSmz6xilI"
+    },
+    {
+        "country": "VU",
+        "playlist_id": null
+    },
+    {
+        "country": "WS",
+        "playlist_id": null
+    },
+    {
+        "country": "XK",
+        "playlist_id": null
+    },
+    {
+        "country": "ZA",
+        "name": "South Africa",
+        "playlist_id": "37i9dQZEVXbMH2jvi6jvjk"
+    },
+    {
+        "country": "ZM",
+        "playlist_id": null
+    },
+    {
+        "country": "ZW",
+        "playlist_id": null
+    }
+]
